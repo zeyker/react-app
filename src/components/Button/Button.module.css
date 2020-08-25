@@ -1,0 +1,27 @@
+.Button{
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    font-size: 1.5rem;
+    padding: 1rem;
+    
+    font-weight: 400;
+    border-radius: 5px;
+    box-shadow: 17px 21px 66px -26px rgba(0,0,0,0.51);
+    text-transform: uppercase;
+}
+
+.Succes{
+    background-color: #11998e;
+}
+
+.Save{
+ background-color: #2d6cdf;
+}
+
+.Danger{
+    background-color: #ED213A;
+}
